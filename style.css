@@ -18,11 +18,12 @@
     color: #fff;
     padding: 0 8%;
     
+    
 
 }
 
 h1 {
-    padding-top: 200px;
+    padding-top: 170px;
     margin-bottom: 25px;
     font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 3.5rem;
@@ -30,19 +31,24 @@ h1 {
     
 }   
 
+.Portf-button {
+    color:rgb(165, 144, 22);
+    margin-top: 25px;
+}
+
 p {
     color: darksalmon;
-    font-family: cursive;
-    
-
+    font-family: 'Kaisei HarunoUmi', serif;
 }
 
 .hero2{
     color: rgb(155, 199, 228);
     font-size: 25px;
     padding-top: 25px;
-    font-family:cursive;
+    font-family: 'Poppins', sans-serif;;
 }
+
+
 
 
 
