@@ -18,8 +18,6 @@
     color: #fff;
     padding: 0 8%;
     
-    
-
 }
 
 h1 {
@@ -32,8 +30,30 @@ h1 {
 }   
 
 .Portf-button {
-    color:rgb(165, 144, 22);
+    /* background-color: white; */
+    width: 225px;
+    color:rgb(165, 144, 22); 
     margin-top: 25px;
+    /* font-family: 'Playfair Display', serif; */
+    
+    border-radius: 20px;
+    box-shadow: 5px 5px 2px 2px rgb(165, 144, 22);
+    transition-duration: 2s;
+}
+
+.Portf-button:hover {
+        
+		background-color: rgb(245, 234, 234);
+
+		}
+/* .Portf-button {
+    /* color:rgb(165, 144, 22); 
+    margin-top: 25px;
+} */
+
+a {
+    text-decoration: none;
+    color:rgb(165, 144, 22);
 }
 
 p {
